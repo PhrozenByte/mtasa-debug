@@ -28,6 +28,11 @@ PhrozenByte Debug furthermore exports the following client-side functions:
   * `bool updateOnScreenLog(int logID, table data, [ string calcMode = nil ])`
   * `bool simpleOnScreenLog(string message, table data, [ mixed textAlign = "center", int red = 255, int green = 255, int blue = 255, int alpha = 255 ])`
 
+Last but not least it exports the following shared functions:
+
+* `void dump(mixed variable, [ string name = nil, int level = 3 ])`
+* `string get(mixed variable)`
+
 When you're experiencing problems with PhrozenByte Debug, please don't hesitate to create a new [Issue](https://github.com/PhrozenByte/mtasa-debug/issues) on GitHub. If you're a developer, you can help make PhrozenByte Debug better by contributing code; simply open a new [PR](https://github.com/PhrozenByte/mtasa-debug/pulls) on GitHub. Contributing to PhrozenByte Debug is highly appreciated! 
 
 License tl;dr
