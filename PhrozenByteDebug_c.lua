@@ -440,7 +440,7 @@ function drawOnScreenText(message, textRow, textAlign, textColor)
     end
 
     dxDrawRectangle((positionX - offsetX), (positionY - offsetY), (width + (2 * offsetX)), (height + (2 * offsetY)), tocolor(0, 0, 0, 100))
-    dxDrawText(message, positionX, positionY, "center", "center", textColor, textScale)
+    dxDrawText(message, positionX, positionY, positionX, positionY, textColor, textScale)
 end
 
 --
