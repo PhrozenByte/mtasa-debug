@@ -71,7 +71,7 @@ For the avoidance of doubt: Although the GNU AGPL is a copyleft license, you are
 Copyright
 ---------
 
-Copyright (C) 2015-2016  Daniel Rudolf <http://www.daniel-rudolf.de/>
+Copyright (C) 2015-2018  Daniel Rudolf <http://www.daniel-rudolf.de/>
 
 This program is free software: you can redistribute it and/or modify it under the terms of the [GNU Affero General Public License](LICENSE) as published by the Free Software Foundation, version 3 of the License only.
 

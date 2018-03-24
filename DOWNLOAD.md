@@ -1,7 +1,7 @@
 PhrozenByte Debug
 =================
 
-Copyright (C) 2015-2016  Daniel Rudolf <http://www.daniel-rudolf.de/>
+Copyright (C) 2015-2018  Daniel Rudolf <http://www.daniel-rudolf.de/>
 
 PhrozenByte Debug is free software, released under the terms of the
 [GNU Affero General Public License](LICENSE) version 3 (GNU AGPL).

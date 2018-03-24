@@ -1,5 +1,5 @@
 <meta>
-    <info name="PhrozenByte Debug Utilities" author="Daniel Rudolf" version="1.0" type="script"></info>
+    <info name="PhrozenByte Debug Utilities" author="Daniel Rudolf" version="1.0.1" type="script"></info>
 
     <script src="PhrozenByteDebug.lua" type="shared" />
     <script src="PhrozenByteDebug_s.lua" type="server" />

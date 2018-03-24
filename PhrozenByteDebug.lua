@@ -1,6 +1,6 @@
 -- PhrozenByte Debug
 --
--- Copyright (C) 2015-2016  Daniel Rudolf <http://www.daniel-rudolf.de/>
+-- Copyright (C) 2015-2018  Daniel Rudolf <http://www.daniel-rudolf.de/>
 --
 -- This program is free software: you can redistribute it and/or modify it
 -- under the terms of the GNU Affero General Public License as published
